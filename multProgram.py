@@ -1,5 +1,5 @@
 from src import Generator, split as split_req, Writer
-# from src.parsers import split as split_req
+from src.parsers import split as split_req
 # from src.writer import Writer
 
 if __name__ == "__main__":
